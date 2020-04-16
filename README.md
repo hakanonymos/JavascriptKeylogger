@@ -26,17 +26,21 @@ Displays Banque Account (French only)
 # Installation Server
 Start your wampserver,xhamp ....etc and send the "panel" file to your server
 + panel
-1. config.php
+1. `config.php`
 
 usernam  = admin
+
 password = admin
 
-2. yt.php , yt2.php
+2. `yt.php` 
+
+`yt2.php`
 
 If you want : SET YOUR DATETIMEZONE HERE :
 
-$date = new DateTime("now", new DateTimeZone('Africa/Dakar') ); //SET YOUR DATETIMEZONE HERE 
-your can use Europe/Paris or America/New_York	. 
+`$date = new DateTime("now", new DateTimeZone('Africa/Dakar') );`
+
+you can use Europe/Paris or America/New_York	 
 if your want to change DATETIMEZONE clique here https://www.php.net/manual/en/timezones.php
 
 
