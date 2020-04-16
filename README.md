@@ -31,7 +31,9 @@ Start your wampserver,xhamp ....etc and send the "panel" file to your server
 usernam  = admin
 password = admin
 
-2. yt.php and yt2.php
+2. yt.php 
+and
+yt2.php
 
 If you want : SET YOUR DATETIMEZONE HERE :
 
@@ -44,7 +46,9 @@ if your want to change DATETIMEZONE clique here https://www.php.net/manual/en/ti
 
 Open the extension folder .
 + km.js 
+
 and 
+
 + log.js 
 put the name of your website for exemple `http://127.0.0.1/panel/ 
 and save changes 
