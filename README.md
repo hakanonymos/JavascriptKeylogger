@@ -18,3 +18,10 @@ best keylogger javascript
 I think you saw the 4 screenshots made up of 4 parts
 # Admin Dashboard
 this page displays all the data of the victims 
+# Keystrokes
+Keystrokes recorded with each victim in a single html file: identification with their IP address 
+# Email Password
+Displays only Email address and password  
+# Banque Account
+Displays Banque Account (French only)
+
