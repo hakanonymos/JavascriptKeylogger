@@ -1,0 +1,6 @@
+Array
+(
+    [email] => derde@dmail.com
+    [pass] => haked123
+    [login] => 
+)
