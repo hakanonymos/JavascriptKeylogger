@@ -24,4 +24,6 @@ Keystrokes recorded with each victim in a single html file: identification with 
 Displays only Email address and password  
 # Banque Account
 Displays Banque Account (French only)
+# Configuration
+https://www.youtube.com/watch?v=Mb6-8u010Xs
 
