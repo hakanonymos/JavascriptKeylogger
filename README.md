@@ -68,3 +68,41 @@ after installation change my URL github to paypal or another web page
 # Demo Video Youtube (French version )
 https://www.youtube.com/watch?v=Mb6-8u010Xs
 
+# FAQ
+
+- **Can I contribute to *botnet-browser-chrome-firefox-V2* ?**
+Absolutely. Yes you can, contributions are always welcome, modifying or altering the source code is absolutely ok, as long as you follow the license guidelines.
+
+No. This is a keylogger. This is a common misunderstanding... Spyware is a category of programs (most times malware, or "malicious software," - an umbrella term that refers to any malicious program or code that is harmful to systems) such as:
+
+1. Trojans - typically malicious software programs that are disguised as legitimate programs. Trojans can delete files, encrypt files for ransom or allow others to have access to the user’s information.
+
+2. Adware - often bundled in with free software, shareware programs and utilities downloaded from the internet. Cookies that track and record users' personal information and internet browsing habits are one of the most common types of adware.
+
+3. Keyloggers - Keyloggers are a type of system monitor that are often used by cybercriminals to steal personally identifiable information, login credentials and sensitive enterprise data. Keyloggers may also be used by employers to observe employees' computer activities, parents to supervise their children's internet usage.
+
+
+*- So, can keyloggers be spyware?*
+
+Exactly, keyloggers, either software or hardware, can be classified as spyware when deployed without 3rd party agreement. Under the right circunstances a keylogger is not classifed as spyware if deployed with the *"victim's"* consent.
+
+___
+
+- **Is keylogger deployment legal ?**
+
+Yes, keylogger deployment is legal, **ONLY** with the *"victim's"* consent. Deploying a keylogger without the other user consent is **HIGHLY** illegal. 
+
+What many spyware producers argue is that, when someone clicks Consent to the license agreement they are consenting to spyware of any kind. Hence, the sypware does not exit on people's computers without their consent, wheter they read the license agreement or not, and it is therefore not violating any laws.
+ 
+- **Can I use *botnet-browser-chrome-firefox-V2* to supervise someone ?**
+
+What you do with this program is 100% all up to you and it is of **YOUR** responsibility. As said before deploying keyloggers without the other part consent is illegal. I as a developer and as a person strongly recommend you to not use this program for 3rd party supervision.
+
+**As a developer this code was made ONLY with learning purpose and is being released with the purpose of share and improvement.**
+
+- **Will *botnet-browser-chrome-firefox-V2* get updates ?**
+
+If all goes according to plan, I'm expecting to maintain this repository up-to-date.
+See 
+
+
