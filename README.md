@@ -12,9 +12,7 @@ best keylogger javascript
 ![4](https://user-images.githubusercontent.com/30985149/79425624-deb06180-7fb9-11ea-93e2-66bedb7ce263.jpg)
 
 ![5](https://user-images.githubusercontent.com/30985149/79425643-e7089c80-7fb9-11ea-86e2-a0cd85516d4c.jpg)
-
- ![7](https://user-images.githubusercontent.com/30985149/79426954-ce998180-7fbb-11ea-93d6-8235f2dbab95.jpg)
- 
+![6](https://user-images.githubusercontent.com/30985149/79428331-ea9e2280-7fbd-11ea-9381-122cbee9bc1a.jpg)
 I think you saw the 4 screenshots made up of 4 parts
 # Admin Dashboard
 this page displays all the data of the victims 
