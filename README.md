@@ -28,8 +28,8 @@ Start your wampserver,xhamp ....etc and send the "panel" file to your server
 + panel
 1. config.php
 
-usernam = admin
-password =admin
+usernam  = admin
+password = admin
 
 2. yt.php and yt2.php
 
@@ -60,7 +60,7 @@ and save changes
 2. Click "Load Temporary Add-on"  
 3. click `manifest.json`
 
-# Demo Video Youtube Only Mozilla Firefox (French version )
+# Demo Video Youtube (French version )
 
 https://www.youtube.com/watch?v=Mb6-8u010Xs
 
