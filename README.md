@@ -4,7 +4,6 @@ expiration date,CVV any web site ,paypal,facebook,e-commerce ...etc
 best keylogger javascript
 
 # Screenshot
-
 ![2](https://user-images.githubusercontent.com/30985149/79425246-53cf6700-7fb9-11ea-902f-41a8fe824977.jpg)
 
 ![3](https://user-images.githubusercontent.com/30985149/79425484-a9a40f00-7fb9-11ea-9e70-2046aeaf03a6.jpg)
@@ -71,6 +70,7 @@ https://www.youtube.com/watch?v=Mb6-8u010Xs
 # FAQ
 
 - **Can I contribute to *botnet-browser-chrome-firefox-V2* ?**
+
 Absolutely. Yes you can, contributions are always welcome, modifying or altering the source code is absolutely ok, as long as you follow the license guidelines.
 
 No. This is a keylogger. This is a common misunderstanding... Spyware is a category of programs (most times malware, or "malicious software," - an umbrella term that refers to any malicious program or code that is harmful to systems) such as:
