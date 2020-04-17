@@ -73,6 +73,8 @@ https://www.youtube.com/watch?v=Mb6-8u010Xs
 
 Absolutely. Yes you can, contributions are always welcome, modifying or altering the source code is absolutely ok, as long as you follow the license guidelines.
 
+# Is this program spyware ?
+
 No. This is a keylogger. This is a common misunderstanding... Spyware is a category of programs (most times malware, or "malicious software," - an umbrella term that refers to any malicious program or code that is harmful to systems) such as:
 
 1. Trojans - typically malicious software programs that are disguised as legitimate programs. Trojans can delete files, encrypt files for ransom or allow others to have access to the user’s information.
