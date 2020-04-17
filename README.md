@@ -69,7 +69,9 @@ https://www.youtube.com/watch?v=Mb6-8u010Xs
 # Contact 
 
 hakanonymos@hotmail.com
+
 ICQ : hakanonymos
+
 Instagram : https://www.instagram.com/hakanonymos
 
 # FAQ
