@@ -66,6 +66,12 @@ after installation change my URL github to paypal or another web page
 # Demo Video Youtube (French version )
 https://www.youtube.com/watch?v=Mb6-8u010Xs
 
+# Contact 
+
+hakanonymos@hotmail.com
+ICQ : hakanonymos
+Instagram : https://www.instagram.com/hakanonymos
+
 # FAQ
 
 - **Can I contribute to *botnet-browser-chrome-firefox-V2* ?**
