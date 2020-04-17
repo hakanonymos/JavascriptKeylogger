@@ -76,9 +76,9 @@ Absolutely. Yes you can, contributions are always welcome, modifying or altering
 
 No. This is a keylogger. This is a common misunderstanding... Spyware is a category of programs (most times malware, or "malicious software," - an umbrella term that refers to any malicious program or code that is harmful to systems) such as:
 
-1. Trojans - typically malicious software programs that are disguised as legitimate programs. Trojans can delete files, encrypt files for ransom or allow others to have access to the user’s information.
+1. Trojans - typically malicious software programs that are disguised as legitimate programs. 
 
-2. Adware - often bundled in with free software, shareware programs and utilities downloaded from the internet. Cookies that track and record users' personal information and internet browsing habits are one of the most common types of adware.
+2. Adware - often bundled in with free software, shareware programs and utilities downloaded from the internet. 
 
 3. Keyloggers - Keyloggers are a type of system monitor that are often used by cybercriminals to steal personally identifiable information, login credentials and sensitive enterprise data. Keyloggers may also be used by employers to observe employees' computer activities, parents to supervise their children's internet usage.
 
