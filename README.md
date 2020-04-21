@@ -22,6 +22,9 @@ Displays only Email address and password
 Displays Banque Account (French only)
 
 # Installation Server
+# Download Pro version extension and server file here (include a private video )
+https://rocketr.net/buy/851fda7de5e1
+
 Start your wampserver,xhamp ....etc and send the "panel" file to your server
 + panel
 1. `config.php`
