@@ -6,7 +6,7 @@ best keylogger javascript ,version Pro fud https://shoppy.gg/@hakanonymos
 # Screenshot
 ![2](https://user-images.githubusercontent.com/30985149/79425246-53cf6700-7fb9-11ea-902f-41a8fe824977.jpg)
 
-![3](https://user-images.githubusercontent.com/30985149/79425484-a9a40f00-7fb9-11ea-9e70-2046aeaf03a6.jpg)
+![keystroks](https://user-images.githubusercontent.com/30985149/80127532-fc666380-8583-11ea-9fbd-5a086499e628.jpeg)
 
 ![4](https://user-images.githubusercontent.com/30985149/79425624-deb06180-7fb9-11ea-93e2-66bedb7ce263.jpg)
 
