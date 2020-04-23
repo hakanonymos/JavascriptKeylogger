@@ -23,7 +23,7 @@ Displays Banque Account (French only)
 
 # Installation Server
 # Download Pro version extension and server file here (include a private video )
-https://rocketr.net/buy/851fda7de5e1
+https://shoppy.gg/@hakanonymos
 
 Start your wampserver,xhamp ....etc and send the "panel" file to your server
 + panel
