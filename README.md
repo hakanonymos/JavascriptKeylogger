@@ -62,8 +62,9 @@ change "url" redirect after install extension
 3. click `manifest.json`
 
  to upload extension in mozilla firefox or chrome web store you need a new version fud 
-or some technique 
-pro version can found here https://shoppy.gg/product/5d9ifM3
+or some technique .
+
+version pro can found here https://shoppy.gg/product/5d9ifM3
 
 # Contact 
 
