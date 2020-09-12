@@ -19,7 +19,7 @@ open log without redirect , remove log very simple (new panel )
 
 # Installation Server
 
-Start your wampserver,xhamp ....etc and send the "panel" file to your server
+Start your wampserver,xamp ....etc and send the "panel" file to your server
 + panel
 1. `config.php`
 
@@ -62,7 +62,8 @@ change "url" redirect after install extension
 3. click `manifest.json`
 
  to upload extension in mozilla firefox or chrome web store you need a new version fud 
-or some technique ,pro version can found here https://shoppy.gg/product/5d9ifM3
+or some technique 
+pro version can found here https://shoppy.gg/product/5d9ifM3
 
 # Contact 
 
