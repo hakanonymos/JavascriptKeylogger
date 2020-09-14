@@ -71,5 +71,9 @@ version pro and fud can found here with assistant https://shoppy.gg/product/5d9i
 
 hakanonymos@hotmail.com
 
+Instagram : hakanonymos
+
+ICQ : hakanonymos
+
 Whatsapp: +1 315 63 66 596
 
