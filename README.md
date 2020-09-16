@@ -1,5 +1,5 @@
-# botnet-browser-chrome-firefox-V3
-javascript botnet browser chrome firefox V3 is a keylogger to capture card number ,
+# Javascript Keylogger V3
+javascript botnet browser chrome / firefox  is a keylogger to capture card number ,
 expiration date,CVV any web site ,paypal,facebook,e-commerce ...etc 
 best keylogger javascript 
 
