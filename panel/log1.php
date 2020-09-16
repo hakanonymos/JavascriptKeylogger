@@ -17,6 +17,8 @@
 
         
         $flag = '<img src="../../../geo/img/flags/'.strtolower(geoip_country_code_by_addr($gi,$ip)).'.png">';
+        $flag1 = '<img src="../../../geo/img/flags/'.strtolower(geoip_country_code_by_addr($gi,$ip)).'.png">';
+
 
         $log = $_GET['values'];
         $user_os        = getOS(); 
@@ -142,7 +144,7 @@
   <tbody>
 
           <tr> <th scope="row">'
-          .$ip.'<br>'.$geoplugin->countryName.'&nbsp;'.$flag.''.$d.'<br>'.$user_os.'</th> 
+          .$ip.'<br>'.$geoplugin->countryName.'&nbsp;'.$flag1.''.$d.'<br>'.$user_os.'</th> 
 
           <td width="100%" class="box3D"> '.$log.' 
 
