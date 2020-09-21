@@ -17,13 +17,14 @@ open log without redirect , remove log very simple
 
 ![file2](https://user-images.githubusercontent.com/30985149/92989185-3b14a000-f4ca-11ea-8637-368880ff07ac.JPG)
 
-Demo video : Chrome 
 
-+  https://youtu.be/Ab5xPtXyPvo
+Demo video  Facebook : Chrome 
+
++  https://web.facebook.com/102313318301415/videos/651706715777891/
 
 Demo Video : Firefox
 
-+  https://youtu.be/L-eI8fJWLkw
++  https://web.facebook.com/102313318301415/videos/348004879720079/
 
 # Installation Server
 
