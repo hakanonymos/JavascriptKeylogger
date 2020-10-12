@@ -76,13 +76,13 @@ or some technique .
 
 version pro and fud can found here with assistant https://shoppy.gg/product/5d9ifM3 
 
-# Contact 
+## Contact 
 
 hakanonymos@hotmail.com
 
-Instagram : hakanonymos
+instagram : hakanonymos
 
-ICQ : hakanonymos
+skype : hakanonymos
 
-Whatsapp: +1 315 63 66 596
+Whatsapp: +1 336 415 3487
 
